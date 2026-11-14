@@ -321,14 +321,15 @@ function HealthFitness() {
                     </div>
                 </div>
 
+
                 <button
                     type="button"
                     className="hf-add-btn"
                     onClick={handleAdd}
                 >
-                    <Plus size={17} />
-                    Add data
+                    + Add data
                 </button>
+
             </header>
 
             {/* HERO */}
